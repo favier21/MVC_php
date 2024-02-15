@@ -1,0 +1,18 @@
+<?php
+$this->content .=<<<EOT
+  			<form method="post" enctype="multipart/form-data" action="$url" name="form" >
+  				<label>$nomRef</label>
+  				<input type="text" name=$nomRef value="$nom">
+				<span style="color: red;">{$erreurNom}</span><br>
+
+  				<label>$especeRef</label>
+  				<input type="text" name=$especeRef value="$espece">
+				  <span style="color: red;">{$erreurEsp}</span><br>
+    
+  				<label>$ageRef</label>
+  				<input type="text" name=$ageRef value="$age">
+				  <span style="color: red;">{$erreurAge}</span><br>
+
+  				<input type="submit" name="user_valider" value="Valider" >
+			</form>
+EOT;

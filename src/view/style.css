@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+}
+
+#menu{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: .5rem 1rem
+}
+
+#menu li{
+    list-style-type: none
+}
+
+#menu a{
+    text-decoration: none;
+    color: "black;
+}
