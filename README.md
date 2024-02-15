@@ -1,35 +1,57 @@
 hugo favier 22102319 favier211
 
 traveaux effectuées(par commits):
+
 .1er
-	-Préliminaires
+
+-Préliminaires
 
 .2eme
-	-Début vue
 
-	-Début contrôleur
+-Début vue
 
-	-Début routeur
+-Début contrôleur
+
+-Début routeur
 
 .3eme
-	-Modèle
+
+-Modèle
 
 .4eme
-	-Liste d'animaux
+
+-Liste d'animaux
+
 .5eme
-	-Stockage
+
+-Stockage
+
 .6eme
-	-Préliminaires TP10
+
+-Préliminaires TP10
+
 .7eme
-	-Création
+
+-Création
+
 .8eme
-	-Création(correction)
+
+-Création(correction)
+
 .9eme
-	-Validation
+
+-Validation
+
 .10eme
-	-AnimalBuilder
+
+-AnimalBuilder
+
 .11eme
-	-AnimalBuilder(correction des variables globales)
-	-Redirection après POST
+
+-AnimalBuilder(correction des variables globales)
+
+-Redirection après POST
+
 .12eme
-	-Feedback
+
+-Feedback
